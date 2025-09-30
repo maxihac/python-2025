@@ -1,0 +1,62 @@
+[
+    {
+        "nombre": "Manzana",
+        "descripcion": "Fruta roja, dulce y crocante",
+        "precio": 850,
+        "stock": 50
+    },
+    {
+        "nombre": "Banana",
+        "descripcion": "Fruta tropical rica en potasio",
+        "precio": 780,
+        "stock": 40
+    },
+    {
+        "nombre": "Tomate",
+        "descripcion": "Ideal para ensaladas y salsas",
+        "precio": 620,
+        "stock": 60
+    },
+    {
+        "nombre": "Lechuga",
+        "descripcion": "Hojas verdes frescas para ensalada",
+        "precio": 430,
+        "stock": 35
+    },
+    {
+        "nombre": "Papa",
+        "descripcion": "Tubérculo versátil para cocinar",
+        "precio": 520,
+        "stock": 100
+    },
+    {
+        "nombre": "Zanahoria",
+        "descripcion": "Raíz naranja rica en vitamina A",
+        "precio": 490,
+        "stock": 80
+    },
+    {
+        "nombre": "Cebolla",
+        "descripcion": "Base aromática para muchas comidas",
+        "precio": 550,
+        "stock": 70
+    },
+    {
+        "nombre": "Pimiento",
+        "descripcion": "Verdura colorida y sabrosa",
+        "precio": 670,
+        "stock": 45
+    },
+    {
+        "nombre": "Naranja",
+        "descripcion": "Fruta cítrica rica en vitamina C",
+        "precio": 800,
+        "stock": 55
+    },
+    {
+        "nombre": "Acelga",
+        "descripcion": "Hojas verdes para tartas y guisos",
+        "precio": 400,
+        "stock": 30
+    }
+]
