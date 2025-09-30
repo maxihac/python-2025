@@ -1,0 +1,10 @@
+setup.py
+tumodelodeclientes_hacard.egg-info/PKG-INFO
+tumodelodeclientes_hacard.egg-info/SOURCES.txt
+tumodelodeclientes_hacard.egg-info/dependency_links.txt
+tumodelodeclientes_hacard.egg-info/top_level.txt
+verduleria_hacard/__init__.py
+verduleria_hacard/creaproductosjson.py
+verduleria_hacard/main.py
+verduleria_hacard/modulo1.py
+verduleria_hacard/modulo2.py

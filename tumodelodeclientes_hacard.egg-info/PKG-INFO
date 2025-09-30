@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: tumodelodeclientes_hacard
+Version: 1.0
+Summary: Objetos y archivos de clientes en página de compras
+Author: Maximiliano Hac
+Author-email: maxihac@hotmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
